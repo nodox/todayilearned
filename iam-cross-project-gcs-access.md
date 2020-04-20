@@ -9,3 +9,7 @@ Google Cloud storage bucket in **Project A**.
 - Click Add Members
 - Paste service account email in *New members* field
 - Add the proper GCS role (Admin, Viewer, Creator, etc)
+
+Tags
+- gcp
+- gcs
