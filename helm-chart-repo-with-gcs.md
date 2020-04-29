@@ -49,3 +49,12 @@ gsutil iam ch allUsers:objectViewer gs://majestic-miles
 ```
 
 - https://cloud.google.com/storage/docs/access-control/making-data-public#buckets
+
+
+## Add repo to your cluster
+```
+helm repo add majestic-miles https://majestic-miles.storage.googleapis.com
+```
+
+Now you can install your chart using `helm install`
+
